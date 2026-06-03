@@ -8,4 +8,8 @@ public class StartMenu : MonoBehaviour
         SceneManager.LoadSceneAsync("Limbo");
     }
 
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
 }
