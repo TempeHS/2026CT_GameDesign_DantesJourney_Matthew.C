@@ -1,32 +1,31 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class PauseMenu : MonoBehaviour
+public class Paused : MonoBehaviour
 {
-    public GameObject pause;
+    [SerializeField] GameObject paused;
 
-    void Update()
+    public void Pause()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            pause.setActive(true);
+            paused.SetActive(true);
             Time.timeScale = 0;
-        }
     }
 
     public void Resume()
     {
-            pause.setActive(false);
+            paused.SetActive(false);
             Time.timeScale = 1;
     }
 
     public void ReturnMainMenu()
     {
         SceneManager.LoadScene("Main Menu");
+        Time.timeScale = 1;
     }
 
     public void Restart()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        Time.timeScale = 1;
     }
 }
