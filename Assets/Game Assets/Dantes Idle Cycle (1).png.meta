@@ -120,7 +120,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -200,12 +200,12 @@ TextureImporter:
       name: Dantes Idle Cycle (1)_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 164
-        width: 30
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 160
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -222,12 +222,12 @@ TextureImporter:
       name: Dantes Idle Cycle (1)_1
       rect:
         serializedVersion: 2
-        x: 33
-        y: 164
-        width: 31
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 32
+        y: 160
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -245,11 +245,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 164
-        width: 33
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 160
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -267,11 +267,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 164
-        width: 33
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 160
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -288,12 +288,12 @@ TextureImporter:
       name: Dantes Idle Cycle (1)_4
       rect:
         serializedVersion: 2
-        x: 129
-        y: 164
-        width: 31
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 160
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -310,12 +310,12 @@ TextureImporter:
       name: Dantes Idle Cycle (1)_5
       rect:
         serializedVersion: 2
-        x: 161
-        y: 164
-        width: 30
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 160
+        y: 160
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -332,12 +332,12 @@ TextureImporter:
       name: Dantes Idle Cycle (1)_6
       rect:
         serializedVersion: 2
-        x: 1
-        y: 84
-        width: 30
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 80
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -354,12 +354,12 @@ TextureImporter:
       name: Dantes Idle Cycle (1)_7
       rect:
         serializedVersion: 2
-        x: 33
-        y: 84
-        width: 31
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 32
+        y: 80
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -377,11 +377,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 84
-        width: 33
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 80
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -399,11 +399,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 84
-        width: 33
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 80
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -420,12 +420,12 @@ TextureImporter:
       name: Dantes Idle Cycle (1)_10
       rect:
         serializedVersion: 2
-        x: 129
-        y: 84
-        width: 31
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 80
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -442,12 +442,12 @@ TextureImporter:
       name: Dantes Idle Cycle (1)_11
       rect:
         serializedVersion: 2
-        x: 161
-        y: 84
-        width: 30
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 160
+        y: 80
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -464,12 +464,12 @@ TextureImporter:
       name: Dantes Idle Cycle (1)_12
       rect:
         serializedVersion: 2
-        x: 1
-        y: 4
-        width: 31
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -487,11 +487,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 4
-        width: 33
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 0
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -509,11 +509,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 4
-        width: 33
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 0
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -530,12 +530,12 @@ TextureImporter:
       name: Dantes Idle Cycle (1)_15
       rect:
         serializedVersion: 2
-        x: 97
-        y: 4
-        width: 31
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 0
+        width: 32
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -552,7 +552,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 90a9df67cbe45274ba90c0011875b24b
     internalID: 0
     vertices: []
     indices: 
