@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: f9b956ac4e340cf42a4e3cb70ba4df31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8989342614051341041
+    second: BGmossgrass_0
+  - first:
+      213: -2785963998368201644
+    second: BGmossgrass_1
+  - first:
+      213: 5789959523742303812
+    second: BGmossgrass_2
+  - first:
+      213: -1298490118323683206
+    second: BGmossgrass_3
+  - first:
+      213: -7667282226319434874
+    second: BGmossgrass_4
+  - first:
+      213: 7122847799292168282
+    second: BGmossgrass_5
+  - first:
+      213: 3381187211639369582
+    second: BGmossgrass_6
+  - first:
+      213: 5270621270727930951
+    second: BGmossgrass_7
+  - first:
+      213: -1160086808067619311
+    second: BGmossgrass_8
+  - first:
+      213: -8465308661532611413
+    second: BGmossgrass_9
+  - first:
+      213: -1582521370189334114
+    second: BGmossgrass_10
+  - first:
+      213: -2686403367764079739
+    second: BGmossgrass_11
+  - first:
+      213: -4027630496171673743
+    second: BGmossgrass_12
+  - first:
+      213: 196129069348945125
+    second: BGmossgrass_13
+  - first:
+      213: 459836142872167354
+    second: BGmossgrass_14
+  - first:
+      213: 1463916130527650740
+    second: BGmossgrass_15
+  - first:
+      213: 3370996434505418164
+    second: BGmossgrass_16
+  - first:
+      213: 7990214287205910779
+    second: BGmossgrass_17
+  - first:
+      213: -7441349491156866574
+    second: BGmossgrass_18
+  - first:
+      213: -1477450286473404319
+    second: BGmossgrass_19
+  - first:
+      213: -3278148516698893001
+    second: BGmossgrass_20
+  - first:
+      213: -8418114804338889629
+    second: BGmossgrass_21
+  - first:
+      213: -4496646544105251733
+    second: BGmossgrass_22
+  - first:
+      213: 4764316939916526548
+    second: BGmossgrass_23
+  - first:
+      213: -7720784998897025830
+    second: BGmossgrass_24
+  - first:
+      213: -1098191898405712995
+    second: BGmossgrass_25
+  - first:
+      213: 7795312147672384062
+    second: BGmossgrass_26
+  - first:
+      213: -1632169633412755659
+    second: BGmossgrass_27
+  - first:
+      213: 8912593087787444750
+    second: BGmossgrass_28
+  - first:
+      213: 831029994757644
+    second: BGmossgrass_29
+  - first:
+      213: 5388026462148426721
+    second: BGmossgrass_30
+  - first:
+      213: -3861293866663808796
+    second: BGmossgrass_31
+  - first:
+      213: -3821795530363809298
+    second: BGmossgrass_32
+  - first:
+      213: -1937241834917109341
+    second: BGmossgrass_33
+  - first:
+      213: -5835916002413197645
+    second: BGmossgrass_34
+  - first:
+      213: -8794990151418527363
+    second: BGmossgrass_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BGmossgrass_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2cfcada7f80cc70800000000000000
+      internalID: 8989342614051341041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 128
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4548c3011844659d0800000000000000
+      internalID: -2785963998368201644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 128
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446cc84a2811a5050800000000000000
+      internalID: 5789959523742303812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 128
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7046f8fd16dafde0800000000000000
+      internalID: -1298490118323683206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 128
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b509b2077589590800000000000000
+      internalID: -7667282226319434874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 128
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a588bf1c55079d260800000000000000
+      internalID: 7122847799292168282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 128
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fabdccad36cee20800000000000000
+      internalID: 3381187211639369582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7443b5bee12052940800000000000000
+      internalID: 5270621270727930951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 96
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1164388c13b86efe0800000000000000
+      internalID: -1160086808067619311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacaf4b9f9e258a80800000000000000
+      internalID: -8465308661532611413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 96
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e997668c231c90ae0800000000000000
+      internalID: -1582521370189334114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 96
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b4205ce5af7bad0800000000000000
+      internalID: -2686403367764079739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 96
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177382d276bfa18c0800000000000000
+      internalID: -4027630496171673743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 96
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecfba4795ac8b200800000000000000
+      internalID: 196129069348945125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 96
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab308ce198aa16600800000000000000
+      internalID: 459836142872167354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3a01de6ffd05410800000000000000
+      internalID: 1463916130527650740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 64
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5cdc9956f28ce20800000000000000
+      internalID: 3370996434505418164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 64
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8c82c6f81f2ee60800000000000000
+      internalID: 7990214287205910779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 64
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9af0250140bb890800000000000000
+      internalID: -7441349491156866574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 64
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1602475daca0f7be0800000000000000
+      internalID: -1477450286473404319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 64
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735503dda4da182d0800000000000000
+      internalID: -3278148516698893001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c6ce0cf29dc2b80800000000000000
+      internalID: -8418114804338889629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 64
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c5e1adac3b891c0800000000000000
+      internalID: -4496646544105251733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 64
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3c911b3014e1240800000000000000
+      internalID: 4764316939916526548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcf39133f24ad490800000000000000
+      internalID: -7720784998897025830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 64
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bc050794072c0f0800000000000000
+      internalID: -1098191898405712995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32cc43d8138e2c60800000000000000
+      internalID: 7795312147672384062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 32
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fc043bd5e5959e0800000000000000
+      internalID: -1632169633412755659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_28
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 32
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a2c214134efab70800000000000000
+      internalID: 8912593087787444750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_29
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 32
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e92af31d3f20000800000000000000
+      internalID: 831029994757644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 32
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebf2c4358d16ca40800000000000000
+      internalID: 5388026462148426721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0fb10bfade96ac0800000000000000
+      internalID: -3861293866663808796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee15d70c63146fac0800000000000000
+      internalID: -3821795530363809298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 32
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a16db9a0d88d15e0800000000000000
+      internalID: -1937241834917109341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6c429d059a20fa0800000000000000
+      internalID: -5835916002413197645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGmossgrass_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71c3ad1e0be1f580800000000000000
+      internalID: -8794990151418527363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f4608383e59e21a45961d86bd64843d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BGmossgrass_0: 8989342614051341041
+      BGmossgrass_1: -2785963998368201644
+      BGmossgrass_10: -1582521370189334114
+      BGmossgrass_11: -2686403367764079739
+      BGmossgrass_12: -4027630496171673743
+      BGmossgrass_13: 196129069348945125
+      BGmossgrass_14: 459836142872167354
+      BGmossgrass_15: 1463916130527650740
+      BGmossgrass_16: 3370996434505418164
+      BGmossgrass_17: 7990214287205910779
+      BGmossgrass_18: -7441349491156866574
+      BGmossgrass_19: -1477450286473404319
+      BGmossgrass_2: 5789959523742303812
+      BGmossgrass_20: -3278148516698893001
+      BGmossgrass_21: -8418114804338889629
+      BGmossgrass_22: -4496646544105251733
+      BGmossgrass_23: 4764316939916526548
+      BGmossgrass_24: -7720784998897025830
+      BGmossgrass_25: -1098191898405712995
+      BGmossgrass_26: 7795312147672384062
+      BGmossgrass_27: -1632169633412755659
+      BGmossgrass_28: 8912593087787444750
+      BGmossgrass_29: 831029994757644
+      BGmossgrass_3: -1298490118323683206
+      BGmossgrass_30: 5388026462148426721
+      BGmossgrass_31: -3861293866663808796
+      BGmossgrass_32: -3821795530363809298
+      BGmossgrass_33: -1937241834917109341
+      BGmossgrass_34: -5835916002413197645
+      BGmossgrass_35: -8794990151418527363
+      BGmossgrass_4: -7667282226319434874
+      BGmossgrass_5: 7122847799292168282
+      BGmossgrass_6: 3381187211639369582
+      BGmossgrass_7: 5270621270727930951
+      BGmossgrass_8: -1160086808067619311
+      BGmossgrass_9: -8465308661532611413
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
