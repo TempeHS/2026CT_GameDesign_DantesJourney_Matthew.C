@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 8a234e3fc3ae06149acf2966f645379f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2939761911581101489
+    second: Dantes Walk cycle (1)_0
+  - first:
+      213: -1305369383495848005
+    second: Dantes Walk cycle (1)_1
+  - first:
+      213: 2489314223337069851
+    second: Dantes Walk cycle (1)_2
+  - first:
+      213: 5351037903897467650
+    second: Dantes Walk cycle (1)_3
+  - first:
+      213: 1162152039918504703
+    second: Dantes Walk cycle (1)_4
+  - first:
+      213: -7682596527953291597
+    second: Dantes Walk cycle (1)_5
+  - first:
+      213: 2702247304199730896
+    second: Dantes Walk cycle (1)_6
+  - first:
+      213: -4584470789494403284
+    second: Dantes Walk cycle (1)_7
+  - first:
+      213: 6082884654779391081
+    second: Dantes Walk cycle (1)_8
+  - first:
+      213: 4554857396410478248
+    second: Dantes Walk cycle (1)_9
+  - first:
+      213: -4735161809241416837
+    second: Dantes Walk cycle (1)_10
+  - first:
+      213: 437835319044192365
+    second: Dantes Walk cycle (1)_11
+  - first:
+      213: -1294747914713500602
+    second: Dantes Walk cycle (1)_12
+  - first:
+      213: 4137770758639549448
+    second: Dantes Walk cycle (1)_13
+  - first:
+      213: -2090696986529556725
+    second: Dantes Walk cycle (1)_14
+  - first:
+      213: 1868832074424526944
+    second: Dantes Walk cycle (1)_15
+  - first:
+      213: -8620049720456464853
+    second: Dantes Walk cycle (1)_16
+  - first:
+      213: 7370370962245348299
+    second: Dantes Walk cycle (1)_17
+  - first:
+      213: 7176777396830190227
+    second: Dantes Walk cycle (1)_18
+  - first:
+      213: 7630454301820859676
+    second: Dantes Walk cycle (1)_19
+  - first:
+      213: 1309454855737215371
+    second: Dantes Walk cycle (1)_20
+  - first:
+      213: 9138617744352617109
+    second: Dantes Walk cycle (1)_21
+  - first:
+      213: -171010397678381650
+    second: Dantes Walk cycle (1)_22
+  - first:
+      213: -6501681001073343888
+    second: Dantes Walk cycle (1)_23
+  - first:
+      213: -1438004814036795452
+    second: Dantes Walk cycle (1)_24
+  - first:
+      213: 2535854550370493712
+    second: Dantes Walk cycle (1)_25
+  - first:
+      213: 1018762268311738512
+    second: Dantes Walk cycle (1)_26
+  - first:
+      213: -6807851325545645899
+    second: Dantes Walk cycle (1)_27
+  - first:
+      213: -318351298215081339
+    second: Dantes Walk cycle (1)_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdc30012e12cc820800000000000000
+      internalID: 2939761911581101489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 241
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf2f0c367562ede0800000000000000
+      internalID: -1305369383495848005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 241
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d5550e812db8220800000000000000
+      internalID: 2489314223337069851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 241
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b95716f94b24a40800000000000000
+      internalID: 5351037903897467650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 241
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa865a7f1bc02010800000000000000
+      internalID: 1162152039918504703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 241
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6d1b6792fe16590800000000000000
+      internalID: -7682596527953291597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 241
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6f4162b9f408520800000000000000
+      internalID: 2702247304199730896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 241
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f08054b10b060c0800000000000000
+      internalID: -4584470789494403284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 241
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cdcc17d5fba6450800000000000000
+      internalID: 6082884654779391081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae6b9b5baa163f30800000000000000
+      internalID: 4554857396410478248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 162
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b5b262c63594eb0800000000000000
+      internalID: -4735161809241416837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 162
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68bfb527e0831600800000000000000
+      internalID: 437835319044192365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 162
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644f2d5a1a1280ee0800000000000000
+      internalID: -1294747914713500602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 162
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c75b605905c6930800000000000000
+      internalID: 4137770758639549448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 162
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b071de0fa2a5cf2e0800000000000000
+      internalID: -2090696986529556725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 162
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0682ee4cedc6fe910800000000000000
+      internalID: 1868832074424526944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 162
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26bcf1437e6f5880800000000000000
+      internalID: -8620049720456464853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 162
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbec7b1751d84660800000000000000
+      internalID: 7370370962245348299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39abd1aa409099360800000000000000
+      internalID: 7176777396830190227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 83
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1532e672c1d4e960800000000000000
+      internalID: 7630454301820859676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 83
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8980a5e04e1c2210800000000000000
+      internalID: 1309454855737215371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 83
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59228368b64e2de70800000000000000
+      internalID: 9138617744352617109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 83
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea55b7903f270adf0800000000000000
+      internalID: -171010397678381650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 83
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0720e10b39365c5a0800000000000000
+      internalID: -6501681001073343888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 83
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cff8029d3e2b0ce0800000000000000
+      internalID: -1438004814036795452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 83
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01524ec274a213320800000000000000
+      internalID: 2535854550370493712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 83
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098da49a2ee532e00800000000000000
+      internalID: 1018762268311738512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8fd29f947a581a0800000000000000
+      internalID: -6807851325545645899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes Walk cycle (1)_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a0b145e2df49bf0800000000000000
+      internalID: -318351298215081339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8d8395e837d45b044bc7c122ce452b0e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dantes Walk cycle (1)_0: 2939761911581101489
+      Dantes Walk cycle (1)_1: -1305369383495848005
+      Dantes Walk cycle (1)_10: -4735161809241416837
+      Dantes Walk cycle (1)_11: 437835319044192365
+      Dantes Walk cycle (1)_12: -1294747914713500602
+      Dantes Walk cycle (1)_13: 4137770758639549448
+      Dantes Walk cycle (1)_14: -2090696986529556725
+      Dantes Walk cycle (1)_15: 1868832074424526944
+      Dantes Walk cycle (1)_16: -8620049720456464853
+      Dantes Walk cycle (1)_17: 7370370962245348299
+      Dantes Walk cycle (1)_18: 7176777396830190227
+      Dantes Walk cycle (1)_19: 7630454301820859676
+      Dantes Walk cycle (1)_2: 2489314223337069851
+      Dantes Walk cycle (1)_20: 1309454855737215371
+      Dantes Walk cycle (1)_21: 9138617744352617109
+      Dantes Walk cycle (1)_22: -171010397678381650
+      Dantes Walk cycle (1)_23: -6501681001073343888
+      Dantes Walk cycle (1)_24: -1438004814036795452
+      Dantes Walk cycle (1)_25: 2535854550370493712
+      Dantes Walk cycle (1)_26: 1018762268311738512
+      Dantes Walk cycle (1)_27: -6807851325545645899
+      Dantes Walk cycle (1)_28: -318351298215081339
+      Dantes Walk cycle (1)_3: 5351037903897467650
+      Dantes Walk cycle (1)_4: 1162152039918504703
+      Dantes Walk cycle (1)_5: -7682596527953291597
+      Dantes Walk cycle (1)_6: 2702247304199730896
+      Dantes Walk cycle (1)_7: -4584470789494403284
+      Dantes Walk cycle (1)_8: 6082884654779391081
+      Dantes Walk cycle (1)_9: 4554857396410478248
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
