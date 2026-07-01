@@ -57,3 +57,10 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 Inspiration, code snippets, etc.
 * [Github md syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [TempeHS Unity template](https://github.com/TempeHS/TempeHS_Unity_DevContainer)
+
+ ## ITEMS FOR DOCUMENTATION
+ Player Movement - bendux - https://www.youtube.com/watch?v=K1xZ-rycYY8
+ Main Menu - Rehope Games - https://www.youtube.com/watch?v=DX7HyN7oJjE
+ Camera Follow - Rehope Games - https://www.youtube.com/watch?v=6p-VrQOj2KU
+ Pause Menu - Rehope Games - https://www.youtube.com/watch?v=MNUYe0PWNNs
+
