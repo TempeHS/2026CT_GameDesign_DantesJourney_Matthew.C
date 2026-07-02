@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7ee4fae2dbdd94c43b22a0ea70221d2c
+guid: f9b3c61251304ab438dd01ecbd7a0b82
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3108152773767817461
-    second: MGgate3_0
+      213: -6265559775815255736
+    second: Openinganimation_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -152,13 +152,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MGgate3_0
+      name: Openinganimation_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 28
-        height: 32
+        y: 512
+        width: 384
+        height: 256
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,8 +167,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f86314ea70622b20800000000000000
-      internalID: 3108152773767817461
+      spriteID: 8493e8b84924c09a0800000000000000
+      internalID: -6265559775815255736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Openinganimation_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de89f7370c340174ab4b39694388f4b1
+      internalID: 1384862455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Openinganimation_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c6e8d9b9b6f7a4486c477480d66165
+      internalID: 1324480738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Openinganimation_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2322d51c48ecd42abc8230e8347364
+      internalID: -1218916664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Openinganimation_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5f69dd15e60924f8fc09962f909e1e
+      internalID: 1141589217
       vertices: []
       indices: 
       edges: []
@@ -177,7 +265,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 8571d41f8d8bf58489eb997515cded18
+    spriteID: 9b52d1c2cc949534aba77d54ed844835
     internalID: 0
     vertices: []
     indices: 
@@ -187,7 +275,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MGgate3_0: 3108152773767817461
+      Openinganimation_0: -6265559775815255736
+      Openinganimation_1: 1384862455
+      Openinganimation_2: 1324480738
+      Openinganimation_3: -1218916664
+      Openinganimation_4: 1141589217
+      Openinganimation_5: 213734237
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

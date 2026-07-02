@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7ee4fae2dbdd94c43b22a0ea70221d2c
+guid: dcdd991ccf5d8e44fac89586d02bd586
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3108152773767817461
-    second: MGgate3_0
+      213: -3094232961378293948
+    second: option animation-1.png (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -152,23 +152,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MGgate3_0
+      name: option animation-1.png (1)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 28
-        height: 32
+        x: 153
+        y: 340
+        width: 73
+        height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f86314ea70622b20800000000000000
-      internalID: 3108152773767817461
+      spriteID: 447edbcf3831f05d0800000000000000
+      internalID: -3094232961378293948
       vertices: []
       indices: 
       edges: []
@@ -177,7 +177,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 8571d41f8d8bf58489eb997515cded18
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -187,7 +187,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MGgate3_0: 3108152773767817461
+      option animation-1.png (1)_0: -3094232961378293948
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
