@@ -41,7 +41,7 @@ public class PlayerMovement : MonoBehaviour
     private void FixedUpdate()
     {
         rb.linearVelocity = new Vector2(horizontal * speed, rb.linearVelocity.y);
-        audioManager.PlaySFX(audioManager.walkSFX);
+        
     }
 
     private bool isGrounded() 
@@ -57,6 +57,7 @@ public class PlayerMovement : MonoBehaviour
             Vector3 localScale = transform.localScale;
             localScale.x  *= -1f;
             transform.localScale = localScale;
+            audioManager.PlaySFX(audioManager.walkSFX);
         }
     }
 }
