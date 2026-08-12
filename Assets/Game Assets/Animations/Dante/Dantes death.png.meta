@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: f3b750d89ef716648a0a67c863a6a124
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3151292633479164485
+    second: Dantes death_0
+  - first:
+      213: 1062069113621141065
+    second: Dantes death_1
+  - first:
+      213: 2738568828652007564
+    second: Dantes death_2
+  - first:
+      213: -5804471959894171924
+    second: Dantes death_3
+  - first:
+      213: -3139013748691503819
+    second: Dantes death_4
+  - first:
+      213: 7400903793935714231
+    second: Dantes death_5
+  - first:
+      213: 4760824175133574114
+    second: Dantes death_6
+  - first:
+      213: -6979899608728944346
+    second: Dantes death_7
+  - first:
+      213: -8109305762532475265
+    second: Dantes death_8
+  - first:
+      213: -5990943448484292336
+    second: Dantes death_9
+  - first:
+      213: 388449262477381161
+    second: Dantes death_10
+  - first:
+      213: 735489984319717880
+    second: Dantes death_11
+  - first:
+      213: 7519296292619098330
+    second: Dantes death_12
+  - first:
+      213: 5074815803601061653
+    second: Dantes death_13
+  - first:
+      213: -5735980650578856251
+    second: Dantes death_14
+  - first:
+      213: -2810927088928949301
+    second: Dantes death_15
+  - first:
+      213: 3107178426849204198
+    second: Dantes death_16
+  - first:
+      213: -8155671493354636420
+    second: Dantes death_17
+  - first:
+      213: -9023640706890249980
+    second: Dantes death_18
+  - first:
+      213: 3204718238525958256
+    second: Dantes death_19
+  - first:
+      213: -1704114921344872580
+    second: Dantes death_20
+  - first:
+      213: 8738568933642547582
+    second: Dantes death_21
+  - first:
+      213: -1160891666189061689
+    second: Dantes death_22
+  - first:
+      213: 649423387998752457
+    second: Dantes death_23
+  - first:
+      213: -5996974422939051237
+    second: Dantes death_24
+  - first:
+      213: -2501940192029251878
+    second: Dantes death_25
+  - first:
+      213: -7060018924181695
+    second: Dantes death_26
+  - first:
+      213: -775209654825952313
+    second: Dantes death_27
+  - first:
+      213: 1580441488959971435
+    second: Dantes death_28
+  - first:
+      213: 8037581417405909589
+    second: Dantes death_29
+  - first:
+      213: -767805181703412461
+    second: Dantes death_30
+  - first:
+      213: 7375062925992251949
+    second: Dantes death_31
+  - first:
+      213: 713891738547205693
+    second: Dantes death_32
+  - first:
+      213: -3623962373646563728
+    second: Dantes death_33
+  - first:
+      213: 3029718080586773277
+    second: Dantes death_34
+  - first:
+      213: 8751235158317376377
+    second: Dantes death_35
+  - first:
+      213: 8503559307193782815
+    second: Dantes death_36
+  - first:
+      213: -2207095916105369292
+    second: Dantes death_37
+  - first:
+      213: 982380917479572305
+    second: Dantes death_38
+  - first:
+      213: 580034541866664679
+    second: Dantes death_39
+  - first:
+      213: -3443943564282207980
+    second: Dantes death_40
+  - first:
+      213: 3913692501928346984
+    second: Dantes death_41
+  - first:
+      213: -4871953622589442623
+    second: Dantes death_42
+  - first:
+      213: 7006833235761924306
+    second: Dantes death_43
+  - first:
+      213: -1592882533030362954
+    second: Dantes death_44
+  - first:
+      213: -5232495183134236013
+    second: Dantes death_45
+  - first:
+      213: 9023853631734075657
+    second: Dantes death_46
+  - first:
+      213: -2522319674388224268
+    second: Dantes death_47
+  - first:
+      213: -4276127691154489871
+    second: Dantes death_48
+  - first:
+      213: -798510202935408295
+    second: Dantes death_49
+  - first:
+      213: 8370681161424622195
+    second: Dantes death_50
+  - first:
+      213: 6731755305987838464
+    second: Dantes death_51
+  - first:
+      213: -1785369728159238473
+    second: Dantes death_52
+  - first:
+      213: -1555810914166097547
+    second: Dantes death_53
+  - first:
+      213: -645364087222906396
+    second: Dantes death_54
+  - first:
+      213: -8857443477924375559
+    second: Dantes death_55
+  - first:
+      213: 8577189034966534060
+    second: Dantes death_56
+  - first:
+      213: -3460792408043056127
+    second: Dantes death_57
+  - first:
+      213: 802491898811373957
+    second: Dantes death_58
+  - first:
+      213: 5942832132751428136
+    second: Dantes death_59
+  - first:
+      213: -5697475592865502450
+    second: Dantes death_60
+  - first:
+      213: -3332509845402371383
+    second: Dantes death_61
+  - first:
+      213: -2431848794818563489
+    second: Dantes death_62
+  - first:
+      213: 5866705299147396046
+    second: Dantes death_63
+  - first:
+      213: -4566610116265788815
+    second: Dantes death_64
+  - first:
+      213: -171261259810482651
+    second: Dantes death_65
+  - first:
+      213: -3919243154035897047
+    second: Dantes death_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dantes death_0
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2387
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd4b2ecb0c5444d0800000000000000
+      internalID: -3151292633479164485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2387
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9465d445b3a3dbe00800000000000000
+      internalID: 1062069113621141065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_2
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2387
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80b2c017d9510620800000000000000
+      internalID: 2738568828652007564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_3
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2387
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceedac1818f527fa0800000000000000
+      internalID: -5804471959894171924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_4
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 2387
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535fc2470abff64d0800000000000000
+      internalID: -3139013748691503819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_5
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 2387
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b70166f9ca45b660800000000000000
+      internalID: 7400903793935714231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_6
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 2387
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3cde40d58d11240800000000000000
+      internalID: 4760824175133574114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2131
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621c2d5794a622f90800000000000000
+      internalID: -6979899608728944346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_8
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2131
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e3939bf55f57f80800000000000000
+      internalID: -8109305762532475265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_9
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2131
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019d3abcca4ebdca0800000000000000
+      internalID: -5990943448484292336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_10
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2131
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e0a3fcb8c046500800000000000000
+      internalID: 388449262477381161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_11
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 2131
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f10c337e3cf43a00800000000000000
+      internalID: 735489984319717880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_12
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 2131
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad81972a328e95860800000000000000
+      internalID: 7519296292619098330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_13
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 2131
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5170e2af51e5d6640800000000000000
+      internalID: 5074815803601061653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1875
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6bbb32df3b560b0800000000000000
+      internalID: -5735980650578856251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1875
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbfdde94b49df8d0800000000000000
+      internalID: -2810927088928949301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_16
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1875
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e79a12115aee1b20800000000000000
+      internalID: 3107178426849204198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_17
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1875
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b31d5ccfb31de80800000000000000
+      internalID: -8155671493354636420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_18
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1875
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4094d0d169695c280800000000000000
+      internalID: -9023640706890249980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_19
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1875
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0782e843242797c20800000000000000
+      internalID: 3204718238525958256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_20
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 1875
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fcbc00284c958e0800000000000000
+      internalID: -1704114921344872580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1619
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71370f6522a54970800000000000000
+      internalID: 8738568933642547582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_22
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1619
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1f6162e2fa3efe0800000000000000
+      internalID: -1160891666189061689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_23
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1619
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce0f7e6127330900800000000000000
+      internalID: 649423387998752457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_24
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1619
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b5d91298776cca0800000000000000
+      internalID: -5996974422939051237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_25
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1619
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6e2d4b6a2574dd0800000000000000
+      internalID: -2501940192029251878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_26
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1619
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147aaef33fae6eff0800000000000000
+      internalID: -7060018924181695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_27
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 1619
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb55a91de6ed35f0800000000000000
+      internalID: -775209654825952313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_28
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1363
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60afb1292bdee510800000000000000
+      internalID: 1580441488959971435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_29
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1363
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a82c5d6b93b8f60800000000000000
+      internalID: 8037581417405909589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_30
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1363
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3152dd751453855f0800000000000000
+      internalID: -767805181703412461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_31
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1363
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22dbeb08ac795660800000000000000
+      internalID: 7375062925992251949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_32
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1363
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36313cf0c048e900800000000000000
+      internalID: 713891738547205693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_33
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 1363
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0764a67fb6915bdc0800000000000000
+      internalID: -3623962373646563728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_34
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1363
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13f3faca88bb0a20800000000000000
+      internalID: 3029718080586773277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1107
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973aa6da202a27970800000000000000
+      internalID: 8751235158317376377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_36
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1107
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1290c7d226b20670800000000000000
+      internalID: 8503559307193782815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_37
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1107
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439f25f35f1de51e0800000000000000
+      internalID: -2207095916105369292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_38
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1107
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1530e745d3e12ad00800000000000000
+      internalID: 982380917479572305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_39
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1106
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e24b69b752bc0800800000000000000
+      internalID: 580034541866664679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_40
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1106
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41167783397a430d0800000000000000
+      internalID: -3443943564282207980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_41
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1118
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8658c89489a305630800000000000000
+      internalID: 3913692501928346984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_42
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 1106
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5f0633ef7536cb0800000000000000
+      internalID: -4871953622589442623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_43
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 850
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d88df144b54d3160800000000000000
+      internalID: 7006833235761924306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_44
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 850
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b00dc196c1f4e9e0800000000000000
+      internalID: -1592882533030362954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_45
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 850
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39267589a517267b0800000000000000
+      internalID: -5232495183134236013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_46
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 850
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901d0a0511b2b3d70800000000000000
+      internalID: 9023853631734075657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_47
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 850
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f66c16be9beefcd0800000000000000
+      internalID: -2522319674388224268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_48
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 850
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd7682558428a4c0800000000000000
+      internalID: -4276127691154489871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_49
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 850
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959828c733f1be4f0800000000000000
+      internalID: -798510202935408295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_50
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 594
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372d4c2aa22aa2470800000000000000
+      internalID: 8370681161424622195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_51
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 594
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0029140d8cffb6d50800000000000000
+      internalID: 6731755305987838464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_52
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 594
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6355801b71937e0800000000000000
+      internalID: -1785369728159238473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_53
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 594
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57934737736a86ae0800000000000000
+      internalID: -1555810914166097547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_54
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 594
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1d84e28c43b07f0800000000000000
+      internalID: -645364087222906396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_55
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 594
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f39738e51a041580800000000000000
+      internalID: -8857443477924375559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_56
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 594
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca74e80cbfb480770800000000000000
+      internalID: 8577189034966534060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_57
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 338
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104993514abc8ffc0800000000000000
+      internalID: -3460792408043056127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_58
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 338
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589d7c35126032b00800000000000000
+      internalID: 802491898811373957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_59
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 338
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a0d68965e297250800000000000000
+      internalID: 5942832132751428136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_60
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 338
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b2bc282208ee0b0800000000000000
+      internalID: -5697475592865502450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_61
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 338
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cabc46b3fb80c1d0800000000000000
+      internalID: -3332509845402371383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_62
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 338
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52b065d766504ed0800000000000000
+      internalID: -2431848794818563489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_63
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 338
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3159de269ba6150800000000000000
+      internalID: 5866705299147396046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_64
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 82
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ab5405b4420a0c0800000000000000
+      internalID: -4566610116265788815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_65
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 82
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526d535aace8f9df0800000000000000
+      internalID: -171261259810482651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dantes death_66
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 82
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d0f4fcd1d0c99c0800000000000000
+      internalID: -3919243154035897047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dantes death_0: -3151292633479164485
+      Dantes death_1: 1062069113621141065
+      Dantes death_10: 388449262477381161
+      Dantes death_11: 735489984319717880
+      Dantes death_12: 7519296292619098330
+      Dantes death_13: 5074815803601061653
+      Dantes death_14: -5735980650578856251
+      Dantes death_15: -2810927088928949301
+      Dantes death_16: 3107178426849204198
+      Dantes death_17: -8155671493354636420
+      Dantes death_18: -9023640706890249980
+      Dantes death_19: 3204718238525958256
+      Dantes death_2: 2738568828652007564
+      Dantes death_20: -1704114921344872580
+      Dantes death_21: 8738568933642547582
+      Dantes death_22: -1160891666189061689
+      Dantes death_23: 649423387998752457
+      Dantes death_24: -5996974422939051237
+      Dantes death_25: -2501940192029251878
+      Dantes death_26: -7060018924181695
+      Dantes death_27: -775209654825952313
+      Dantes death_28: 1580441488959971435
+      Dantes death_29: 8037581417405909589
+      Dantes death_3: -5804471959894171924
+      Dantes death_30: -767805181703412461
+      Dantes death_31: 7375062925992251949
+      Dantes death_32: 713891738547205693
+      Dantes death_33: -3623962373646563728
+      Dantes death_34: 3029718080586773277
+      Dantes death_35: 8751235158317376377
+      Dantes death_36: 8503559307193782815
+      Dantes death_37: -2207095916105369292
+      Dantes death_38: 982380917479572305
+      Dantes death_39: 580034541866664679
+      Dantes death_4: -3139013748691503819
+      Dantes death_40: -3443943564282207980
+      Dantes death_41: 3913692501928346984
+      Dantes death_42: -4871953622589442623
+      Dantes death_43: 7006833235761924306
+      Dantes death_44: -1592882533030362954
+      Dantes death_45: -5232495183134236013
+      Dantes death_46: 9023853631734075657
+      Dantes death_47: -2522319674388224268
+      Dantes death_48: -4276127691154489871
+      Dantes death_49: -798510202935408295
+      Dantes death_5: 7400903793935714231
+      Dantes death_50: 8370681161424622195
+      Dantes death_51: 6731755305987838464
+      Dantes death_52: -1785369728159238473
+      Dantes death_53: -1555810914166097547
+      Dantes death_54: -645364087222906396
+      Dantes death_55: -8857443477924375559
+      Dantes death_56: 8577189034966534060
+      Dantes death_57: -3460792408043056127
+      Dantes death_58: 802491898811373957
+      Dantes death_59: 5942832132751428136
+      Dantes death_6: 4760824175133574114
+      Dantes death_60: -5697475592865502450
+      Dantes death_61: -3332509845402371383
+      Dantes death_62: -2431848794818563489
+      Dantes death_63: 5866705299147396046
+      Dantes death_64: -4566610116265788815
+      Dantes death_65: -171261259810482651
+      Dantes death_66: -3919243154035897047
+      Dantes death_7: -6979899608728944346
+      Dantes death_8: -8109305762532475265
+      Dantes death_9: -5990943448484292336
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
