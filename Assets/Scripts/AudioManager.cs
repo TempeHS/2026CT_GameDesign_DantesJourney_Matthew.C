@@ -11,6 +11,7 @@ public class AudioManager : MonoBehaviour
     public AudioClip limboMusic;
     public AudioClip jumpSFX;
     public AudioClip walkSFX;
+    public AudioClip healSFX;
 
     private void Start() 
     {
