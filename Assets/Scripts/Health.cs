@@ -6,11 +6,14 @@ public class Health : MonoBehaviour
     public float currentHealth { get; private set; }
     private Animator anim;
     private bool dead;
+    private Rigidbody2D rb;
+    
 
     private void Awake() 
     {
         currentHealth = startingHealth;
         anim = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody2D>();
     }
 
     public void takeDamage (float _damage)
@@ -27,6 +30,9 @@ public class Health : MonoBehaviour
             {
                 anim.SetTrigger("death");
                 GetComponent<PlayerMovement>().enabled = false;   
+                rb.linearVelocity = Vector2.zero;
+                rb.angularVelocity = 0f;
+                rb.Sleep();
                 dead = true;
             }
 
