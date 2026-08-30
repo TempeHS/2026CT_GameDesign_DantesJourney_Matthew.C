@@ -2,13 +2,13 @@
 
 | Field | Detail |
 |---|---|
-| **Game Title** | |
-| **Student Name(s)** | |
-| **Class / Course** | |
-| **Repository** | |
-| **Unity Version** | |
-| **Document Version** | |
-| **Date** | |
+| **Project Name:** |**Dante's Journey**|
+| **Names:**|**Matthew C, Jude L**|
+| **Course/Class:**|**Computer Technology Yr10**|
+| **Repository:**|**https://github.com/TempeHS/2026CT_GameDesign_DantesJourney_Matthew.C**|
+| **Unity Version:** |**6000.0.58f1**|
+| **Document Version:** | **0.0** |
+| **Date:**|**27/8/2026** |
 
 ---
 
@@ -31,26 +31,28 @@
 ## 1. Game Overview
 
 ### 1.1 Genre
-
+2D Platformer
 
 ### 1.2 Target Audience
+Teens
 
 
 ### 1.3 Game Summary
+Dante's Journey is a 2D Platformer about travelling through the 9 circles of hell from Dante's Inferno. There are obstacles like moving saws trying to stop you from continuing forward, jump past them and dive deeper into hell.
 
 
 ### 1.4 Win / Loss Conditions
 | Condition | Description |
 |---|---|
-| Win | |
-| Loss | |
+| Win | Reach end of circle |
+| Loss | Lose all 3 hearts |
 
 ### 1.5 Platform & Build Settings
 | Setting | Detail |
 |---|---|
-| Target Platform | |
-| Resolution | |
-| Build Type | |
+| Target Platform | PC |
+| Resolution | 1920 x 1080 |
+| Build Type |  |
 
 ---
 
@@ -87,28 +89,28 @@
 ## 3. Game Mechanics
 
 ### 3.1 Core Mechanics
-| ID | Mechanic | Description | Implemented In (Script/Object) |
+| ID | Mechanic | Description | Implemented In (Script / Objects) |
 |---|---|---|---|
-| M-1 | | | |
-| M-2 | | | |
-| M-3 | | | |
-| M-4 | | | |
-| M-5 | | | |
+| M-1 | Damage | Allows obstacles to move and damage the player | EnemyObstacle.cs / Saws and Spikes| 
+| M-2 |Health| Gives player health and shows amount of health | Health.cs and HealthBar.cs |
+| M-3 |Player Movement| Lets player jump and walk | PlayerMovement.cs |
+| M-4 | Healing | Lets player heal damage | HealthHealing.cs |
+| M-5 | Music and SFX | Lets music and SFX play in the game | AudioManager.cs |
 
 ### 3.2 Player Controls
 | Action | Input (Keyboard / Controller) | Description |
 |---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 ### 3.3 Physics & Collision
 | Feature | Description |
 |---|---|
-| | |
-| | |
-| | |
+|  |  |
+|  |  |
+|  |  |
 
 ### 3.4 Game Loop
 | Stage | Description |
@@ -121,8 +123,8 @@
 ### 3.5 Scoring & Progression
 | Element | Description |
 |---|---|
-| Scoring System | |
-| Difficulty Progression | |
+| Scoring System |  |
+| Difficulty Progression |  |
 | Unlockables / Levels | |
 
 ---
@@ -348,6 +350,15 @@
 |---|---|---|---|---|---|
 | | | | | | |
 | | | | | | |
+| | | | | | |
+* [TempeHS Unity template](https://github.com/TempeHS/TempeHS_Unity_DevContainer)
+ * Player Movement - bendux - https://www.youtube.com/watch?v=K1xZ-rycYY8
+ * Main Menu - Rehope Games - https://www.youtube.com/watch?v=DX7HyN7oJjE
+ * Camera Follow - Rehope Games - https://www.youtube.com/watch?v=6p-VrQOj2KU
+ * Pause Menu - Rehope Games - https://www.youtube.com/watch?v=MNUYe0PWNNs
+ * Audio and SFX Implementation - Rehope Games - https://www.youtube.com/watch?v=N8whM1GjH4w
+ * Parallax Effect - Rehope Games - https://www.youtube.com/watch?v=ZYZfKbLxoHI
+ * Health + Damage - Pandemonium - https://www.youtube.com/watch?v=yxzg8jswZ8A 
 
 ### 10.4 Unity Packages & Plugins
 | Package Name | Version | Source | Licence | URL | Purpose |
