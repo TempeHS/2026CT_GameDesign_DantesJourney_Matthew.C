@@ -52,7 +52,7 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 |---|---|
 | Target Platform | PC |
 | Resolution | 1920 x 1080 |
-| Build Type |  |
+| Build Type | Windows 64-bit |
 
 ---
 
@@ -100,27 +100,27 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 ### 3.2 Player Controls
 | Action | Input (Keyboard / Controller) | Description |
 |---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Jump | Space | Lets the player jump, holding down increases jump height |
+| Walk Left | A or Left Arrow | Lets the player walk to the left |
+| Walk Right | D or Right Arrow | Lets the player walk to the right |
 |  |  |  |
 
 ### 3.3 Physics & Collision
 | Feature | Description |
 |---|---|
-|  |  |
-|  |  |
-|  |  |
+| Player | Player interaction with objects, player ground check for jump |
+| Saws and Spikes | Moves left and right (Saw), uses circle collider with isTrigger on to deal damage on collide with player |
+| Heart (In Stage) | Uses box collider with isTrigger on to heal on collide with player |
 
-### 3.4 Game Loop
+### 3.4 Game Loop 
 | Stage | Description |
 |---|---|
-| Start / Initialisation | |
-| Core Loop | |
-| Win / End State | |
-| Restart | |
+| Start / Initialisation | Main Menu Play Button |
+| Core Loop | Platform through level |
+| Win / End State | Beat Level |
+| Restart | Restart Button in pause menu |
 
-### 3.5 Scoring & Progression
+### 3.5 Scoring & Progression [Not Applicable in this Project]
 | Element | Description |
 |---|---|
 | Scoring System |  |
@@ -212,8 +212,8 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 ### 5.1 Music
 | Track | Scene / Trigger | Source / Composer |
 |---|---|---|
-| | | |
-| | | |
+| Title Screen | Main Menu | Jude L. |
+| Limbo | Limbo | Jude L. |
 
 ### 5.2 Sound Effects
 | Sound Effect | Trigger | Source |
