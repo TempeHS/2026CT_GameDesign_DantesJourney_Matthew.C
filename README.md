@@ -44,7 +44,7 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 ### 1.4 Win / Loss Conditions
 | Condition | Description |
 |---|---|
-| Win | Reach end of circle |
+| Win | Reach end of circle (level) |
 | Loss | Lose all 3 hearts |
 
 ### 1.5 Platform & Build Settings
@@ -218,12 +218,12 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 ### 5.2 Sound Effects
 | Sound Effect | Trigger | Source |
 |---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
+|Jump| Press space (Jump button) | Jude L.|
+|Heal/Pick Up Item|Player collides with pick up object (healing item) | Jude L. |
+|Walk| UNUSED | Jude L. |
 
-### 5.3 Audio Implementation
+
+### 5.3 Audio Implementation [Not Applicable In Project]
 | Feature | Description |
 |---|---|
 | Audio Mixer / Groups | |
@@ -237,19 +237,18 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 ### 6.1 HUD Elements
 | Element | Purpose | Screenshot |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+|Health Bar |Show player's current health | |
+
 
 > Add screenshot images using: `![HUD Element](./docs/screenshots/hud_name.png)`
 
 ### 6.2 Menus
 | Menu | Purpose | Screenshot |
 |---|---|---|
-| Main Menu | | |
-| Pause Menu | | |
-| Game Over Screen | | |
-| | | |
+| Main Menu | Settings, Play, Quit Game | |
+| Pause Menu | Return to main menu, resume level, restart level | |
+| Settings | No Current Purpose | |
+
 
 > Add screenshot images using: `![Menu Name](./docs/screenshots/menu_name.png)`
 
@@ -260,26 +259,24 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 ### 7.1 Scene List
 | Scene Name | Purpose | Description |
 |---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
+| Limbo| Gameplay area of circle 1 | Begins with piles of books as tutorial to jump, enters castle area to introduce damage and healing |
+| Main Menu| Allow player to change settings, quit game and begin game | Name of game and background image, button for settings, playing and quitting the game |
+
 
 ### 7.2 Level / Environment Screenshots
 | Level / Area | Description | Screenshot |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+| Limbo (Circle 1) | Begins with green grass area with books and ruined pillars, enters castle with saw and spike traps | |
+
 
 > Add screenshot images using: `![Level Name](./docs/screenshots/level_name.png)`
 
 ### 7.3 Scene Management
 | Feature | Description |
 |---|---|
-| Scene Loading Method | |
-| Persistent Data Between Scenes | |
-| Scene Transition Effects | |
+| Scene Loading Method | LoadSceneAsync, GetActiveScene().buildIndex |
+| Persistent Data Between Scenes | NOT APPLICABLE |
+| Scene Transition Effects | NONE |
 
 ---
 
@@ -288,11 +285,12 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 ### 8.1 Script Summary
 | Script Name | Attached To | Responsibility |
 |---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| AudioManager.cs | Object: Audio Manager / Scripts: HealthHealing.cs, StartMenu.cs, PlayerMovement.cs | Allow audio to be used when certain events happen (e.g. Space button is pressed) | 
+| EnemyObstacle.cs | Object: Saw, Spike / Scripts: Health | Damages player when colliding with damaging object | 
+| Parallax.cs + ParallaxController.cs |Object: Background Objects| Makes background have parallax effect |
+|StartMenu.cs|Scripts: AudioManager.cs|Main Menu for player to start, lets player enter stage, quit game and change settings| 
+|PauseMenu.cs|Objects: Pause Menu, Pause button, Resume,Home,Restart buttons |Lets the player pause the game with the pause button, restart the level, resume the level and return to the main menu using buttons inside the pause menu| 
+|Health.cs, HealthBar.cs, HealthHealing.cs|Object: Health Bar, Player, Healing Object / Scripts: Player|Adds health system to player, lets current health be displayed, lets player heal damage|
 
 ### 8.2 Key Algorithms / Logic
 | Feature | Script | Description |
@@ -316,15 +314,13 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 
 | # | Title | Author / Creator | URL / Source | What You Used It For | What You Changed / Adapted |
 |---|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
-| 6 | | | | | |
-| 7 | | | | | |
-| 8 | | | | | |
-
+| 1 | 2D Player Movement In Unity | bendux | https://www.youtube.com/watch?v=K1xZ-rycYY8|Player Movement, jump | MINIMAL CHANGE |
+| 2 | Make Your MAIN MENU Quickly!  Unity UI Tutorial For Beginners | Rehope Games|https://www.youtube.com/watch?v=DX7HyN7oJjE | Main Menu buttons |Used canvas for background to make main menu fit different resolutions|
+| 3 |Unity 2D Camera Follow System |Rehope Games | https://www.youtube.com/watch?v=6p-VrQOj2KU|Camera following player | MINIMAL CHANGE |
+| 4 |How to Create a PAUSE MENU in Unity !  UI Design Tutorial |Rehope Games |https://www.youtube.com/watch?v=MNUYe0PWNNs |Pause Button, pause menu, pause buttons | MININMAL CHANGE |
+| 5 |How to Add MUSIC and SOUND EFFECTS to a Game in Unity  Unity 2D Platformer Tutorial #16 | Rehope Games|https://www.youtube.com/watch?v=N8whM1GjH4w |Adding music and sound effects on scene enter and event trigger | MINIMAL CHANGE |
+| 6 |Unity 2D PARALLAX EFFECT Tutorial  Endless Scrolling Background |Rehope Games |https://www.youtube.com/watch?v=ZYZfKbLxoHI |Parallax effect for background| MINIMAL CHANGE |
+| 7 |Unity 2D Platformer for Complete Beginners - #7 HEALTH SYSTEM | Pandemonium|https://www.youtube.com/watch?v=yxzg8jswZ8A |Health system (Health and Healthbar) and damage system| MINIMAL CHANGE |
 ---
 
 ## 10. Third-Party Content Acknowledgements
@@ -351,14 +347,6 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 | | | | | | |
 | | | | | | |
 | | | | | | |
-* [TempeHS Unity template](https://github.com/TempeHS/TempeHS_Unity_DevContainer)
- * Player Movement - bendux - https://www.youtube.com/watch?v=K1xZ-rycYY8
- * Main Menu - Rehope Games - https://www.youtube.com/watch?v=DX7HyN7oJjE
- * Camera Follow - Rehope Games - https://www.youtube.com/watch?v=6p-VrQOj2KU
- * Pause Menu - Rehope Games - https://www.youtube.com/watch?v=MNUYe0PWNNs
- * Audio and SFX Implementation - Rehope Games - https://www.youtube.com/watch?v=N8whM1GjH4w
- * Parallax Effect - Rehope Games - https://www.youtube.com/watch?v=ZYZfKbLxoHI
- * Health + Damage - Pandemonium - https://www.youtube.com/watch?v=yxzg8jswZ8A 
 
 ### 10.4 Unity Packages & Plugins
 | Package Name | Version | Source | Licence | URL | Purpose |
