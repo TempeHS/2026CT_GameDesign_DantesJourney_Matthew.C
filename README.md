@@ -7,7 +7,7 @@
 | **Course/Class:**|**Computer Technology Yr10**|
 | **Repository:**|**https://github.com/TempeHS/2026CT_GameDesign_DantesJourney_Matthew.C**|
 | **Unity Version:** |**6000.0.58f1**|
-| **Document Version:** | **0.0** |
+| **Document Version:** | **0.4269** |
 | **Date:**|**27/8/2026** |
 
 ---
@@ -22,9 +22,9 @@
 7. [Scene & Level Design](#7-scene--level-design)
 8. [Scripts & Programming](#8-scripts--programming)
 9. [Development Techniques & Tutorials Acknowledged](#9-development-techniques--tutorials-acknowledged)
-10. [Third-Party Content Acknowledgements](#10-third-party-content-acknowledgements)
+10. [Third-Party Content Acknowledgements (NOT APPLICABLE)](#10-third-party-content-acknowledgements)
 11. [Challenges & Solutions](#11-challenges--solutions)
-12. [Branch Development Summary](#12-branch-development-summary)
+12. [Branch Development Summary (NOT APPLICABLE)](#12-branch-development-summary)
 
 ---
 
@@ -109,7 +109,7 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 | Feature | Description |
 |---|---|
 | Player | Player interaction with objects, player ground check for jump |
-| Saws and Spikes | Moves left and right (Saw), uses circle collider with isTrigger on to deal damage on collide with player |
+| Saws and Spikes | Moves left,right,up and down (Saw), uses circle collider with isTrigger on to deal damage on collide with player (Both)|
 | Heart (In Stage) | Uses box collider with isTrigger on to heal on collide with player |
 
 ### 3.4 Game Loop 
@@ -131,7 +131,7 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 
 ## 4. Visual Features
 
-### 4.1 Particle Effects
+### 4.1 Particle Effects [Not Applicable in this Project]
 
 | Effect Name | Purpose | Screenshot |
 |---|---|---|
@@ -144,7 +144,7 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 
 ---
 
-### 4.2 Cut Scenes & Cinematics
+### 4.2 Cut Scenes & Cinematics [Not Applicable in this Project]
 
 | Cut Scene | Trigger | Description | Screenshot / Still |
 |---|---|---|---|
@@ -160,15 +160,16 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 
 | Animation | Object / Character | Description | Screenshot |
 |---|---|---|---|
-| | | | |
-| | | | |
-| | | | |
+|Player Walking| Player | Player sprite walks | |
+|Sawblade Active|Saw|Saw spins around clockwise | |
+|Player Death | Player | Player falls to his knees and burns | |
+|Player Hurt | Player|Player flashes shades of red|
 
 > Add screenshot images using: `![Animation Name](./docs/screenshots/animation_name.png)`
 
 ---
 
-### 4.4 Lighting & Post-Processing
+### 4.4 Lighting & Post-Processing [Not Applicable in this Project]
 
 | Feature | Description | Screenshot |
 |---|---|---|
@@ -180,7 +181,7 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 
 ---
 
-### 4.5 Shaders & Materials
+### 4.5 Shaders & Materials [Not Applicable in this Project]
 
 | Shader / Material | Applied To | Description | Screenshot |
 |---|---|---|---|
@@ -286,7 +287,7 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 | Script Name | Attached To | Responsibility |
 |---|---|---|
 | AudioManager.cs | Object: Audio Manager / Scripts: HealthHealing.cs, StartMenu.cs, PlayerMovement.cs | Allow audio to be used when certain events happen (e.g. Space button is pressed) | 
-| EnemyObstacle.cs | Object: Saw, Spike / Scripts: Health | Damages player when colliding with damaging object | 
+| EnemyObstacle.cs / EnemyObstacleVertical.cs | Object: Saw, Spike / Scripts: Health |Lets obstacles move, damages player when colliding with damaging object | 
 | Parallax.cs + ParallaxController.cs |Object: Background Objects| Makes background have parallax effect |
 |StartMenu.cs|Scripts: AudioManager.cs|Main Menu for player to start, lets player enter stage, quit game and change settings| 
 |PauseMenu.cs|Objects: Pause Menu, Pause button, Resume,Home,Restart buttons |Lets the player pause the game with the pause button, restart the level, resume the level and return to the main menu using buttons inside the pause menu| 
@@ -320,10 +321,10 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 | 4 |How to Create a PAUSE MENU in Unity !  UI Design Tutorial |Rehope Games |https://www.youtube.com/watch?v=MNUYe0PWNNs |Pause Button, pause menu, pause buttons | MININMAL CHANGE |
 | 5 |How to Add MUSIC and SOUND EFFECTS to a Game in Unity  Unity 2D Platformer Tutorial #16 | Rehope Games|https://www.youtube.com/watch?v=N8whM1GjH4w |Adding music and sound effects on scene enter and event trigger | MINIMAL CHANGE |
 | 6 |Unity 2D PARALLAX EFFECT Tutorial  Endless Scrolling Background |Rehope Games |https://www.youtube.com/watch?v=ZYZfKbLxoHI |Parallax effect for background| MINIMAL CHANGE |
-| 7 |Unity 2D Platformer for Complete Beginners - #7 HEALTH SYSTEM | Pandemonium|https://www.youtube.com/watch?v=yxzg8jswZ8A |Health system (Health and Healthbar) and damage system| MINIMAL CHANGE |
+| 7 |Unity 2D Platformer for Complete Beginners - #7 HEALTH SYSTEM | Pandemonium|https://www.youtube.com/watch?v=yxzg8jswZ8A |Health system (Health and Healthbar) and damage system| Added another script to allow for vertically moving obstacles |
 ---
 
-## 10. Third-Party Content Acknowledgements
+## 10. Third-Party Content Acknowledgements [Not Applicable in this Project]
 
 > All third-party assets (art, audio, fonts, scripts, packages) must be listed here with their licence. Using an asset without acknowledgement may constitute academic misconduct.
 
@@ -367,7 +368,7 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 
 | # | Challenge Encountered | How It Was Solved |
 |---|---|---|
-| 1 | | |
+| 1 || |
 | 2 | | |
 | 3 | | |
 | 4 | | |
@@ -375,7 +376,7 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 
 ---
 
-## 12. Branch Development Summary
+## 12. Branch Development Summary [Not Applicable in this Project (forgot to use branches)]
 
 > One section per feature branch. Add or remove sections to match your repository. Branches should be named for the feature they implement e.g. `feature/player-movement`. Link each branch name directly to the branch in your GitHub repository.
 

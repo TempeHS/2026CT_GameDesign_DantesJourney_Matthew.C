@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class Health : MonoBehaviour
 {
@@ -34,6 +36,7 @@ public class Health : MonoBehaviour
                 rb.angularVelocity = 0f;
                 rb.Sleep();
                 dead = true;
+                StartCoroutine(DelayDeath());
             }
 
         }
@@ -42,5 +45,11 @@ public class Health : MonoBehaviour
     public void AddHealth(float _value)
     {
         currentHealth = Mathf.Clamp(currentHealth + _value, 0, startingHealth);
+    }
+
+    private IEnumerator DelayDeath()
+    {
+    yield return new WaitForSeconds(6f);
+    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }
