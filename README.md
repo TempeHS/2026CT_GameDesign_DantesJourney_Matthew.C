@@ -296,16 +296,9 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 ### 8.2 Key Algorithms / Logic
 | Feature | Script | Description |
 |---|---|---|
-| | | |
-| | | |
-| | | |
-
-### 8.3 Design Patterns Used
-| Pattern | Where Applied | Justification |
-|---|---|---|
-| | | |
-| | | |
-| | | |
+|Death |Health.cs|If current health is higher than 0 the player is hurt, otherwise it triggers the death animation, stops player movement and respawns the player after 6 seconds|
+|Saw Movement | EnemyObstacle.cs (x) / EnemyObstacleVertical.cs (y) |If (x or y) position is larger than (left or top) edge begin moving other way. If (x or y) is smaller than (right or bottom) edge begin moving back other way.|
+| Healing| HealthHealing.cs | If an object with the tag 'Player' collides with the healing object, the script goes to the Health.cs script and adds value to the player's health, it then plays the heal sound effect and causes the healing object to dissapear |
 
 ---
 
@@ -368,11 +361,11 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 
 | # | Challenge Encountered | How It Was Solved |
 |---|---|---|
-| 1 || |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 |Needed saws to move upward but they moved diagonally|In the code for EnemyObstacleVertical.cs, the order used was (y,x,z) due to swapping around the equation used to track the location of the saw and the fix was (x,y,z) |
+| 2 |Walk SFX played for too long |Removed it from the game |
+| 3 |Player continued moving after death |Implemented rigidbody lines to stop velocity and used GetComponent to disable PlayerMovement by input |
+| 4 |Player did not respawn after death |Used WaitForSeconds and IEnumerator to delay respawn to allow for death animation to play|
+| 5 |Colliders did not work for spikes|Accidently used regular colliders rather than 2D Colliders, instead used circle colliders that the saws used |
 
 ---
 
