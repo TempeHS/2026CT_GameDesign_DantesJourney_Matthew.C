@@ -1,5 +1,5 @@
 # Unity Game Development Summary
-
+# REMEMBER TO PAUSE MUSIC WITH AudioManager.instance.musicSource.Pause(); and AudioManager.instance.musicSource.UnPause();
 | Field | Detail |
 |---|---|
 | **Project Name:** |**Dante's Journey**|
