@@ -1,5 +1,4 @@
 # Unity Game Development Summary
-# REMEMBER TO PAUSE MUSIC WITH AudioManager.instance.musicSource.Pause(); and AudioManager.instance.musicSource.UnPause();
 | Field | Detail |
 |---|---|
 | **Project Name:** |**Dante's Journey**|
@@ -140,8 +139,6 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 | | | |
 | | | |
 
-> Add screenshot images using: `![Effect Name](./docs/screenshots/effect_name.png)`
-
 ---
 
 ### 4.2 Cut Scenes & Cinematics [Not Applicable in this Project]
@@ -152,20 +149,16 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 | | | | |
 | | | | |
 
-> Add screenshot images using: `![Cut Scene Name](./docs/screenshots/cutscene_name.png)`
-
 ---
 
 ### 4.3 Animations
 
 | Animation | Object / Character | Description | Screenshot |
 |---|---|---|---|
-|Player Walking| Player | Player sprite walks | |
-|Sawblade Active|Saw|Saw spins around clockwise | |
-|Player Death | Player | Player falls to his knees and burns | |
-|Player Hurt | Player|Player flashes shades of red|
-
-> Add screenshot images using: `![Animation Name](./docs/screenshots/animation_name.png)`
+|Player Walking| Player | Player sprite walks |![Player Walking](DanteSS/walking.png) |
+|Sawblade Active|Saw|Saw spins around clockwise |![Active Saw](DanteSS/activeSaw.png) |
+|Player Death | Player | Player falls to his knees and burns |![Player Death](DanteSS/death.png) |
+|Player Hurt | Player|Player flashes shades of red|![Player Death](DanteSS/danteHurt.png)|
 
 ---
 
@@ -177,8 +170,6 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 | | | |
 | | | |
 
-> Add screenshot images using: `![Feature Name](./docs/screenshots/lighting_name.png)`
-
 ---
 
 ### 4.5 Shaders & Materials [Not Applicable in this Project]
@@ -189,22 +180,17 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 | | | | |
 | | | | |
 
-> Add screenshot images using: `![Shader Name](./docs/screenshots/shader_name.png)`
-
 ---
 
 ### 4.6 Additional Visual Screenshots
 
-<!--
-  Add any other notable screenshots here.
-  Syntax: ![Description](./docs/screenshots/filename.png)
--->
-
 | Description | Screenshot |
 |---|---|
-| | |
-| | |
-| | |
+|Trees |![Trees](DanteSS/add1.png) |
+|Limbo Title |![Limbo Title](DanteSS/add4.png) |
+|Piston |![Piston](DanteSS/add3.png) |
+|Path of Suffering|![Piston](DanteSS/add2.png) |
+|Healing Object |![Heart](DanteSS/add5.png) |
 
 ---
 
@@ -238,20 +224,14 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 ### 6.1 HUD Elements
 | Element | Purpose | Screenshot |
 |---|---|---|
-|Health Bar |Show player's current health | |
-
-
-> Add screenshot images using: `![HUD Element](./docs/screenshots/hud_name.png)`
+|Health Bar |Show player's current health |![Health Bar](DanteSS/healthBar.png) |
 
 ### 6.2 Menus
 | Menu | Purpose | Screenshot |
 |---|---|---|
-| Main Menu | Settings, Play, Quit Game | |
-| Pause Menu | Return to main menu, resume level, restart level | |
-| Settings | No Current Purpose | |
-
-
-> Add screenshot images using: `![Menu Name](./docs/screenshots/menu_name.png)`
+| Main Menu | Settings, Play, Quit Game |![Main Menu](DanteSS/mainMenu.png) |
+| Pause Menu | Return to main menu, resume level, restart level |![Pause Menu](DanteSS/pauseMenu.png) |
+| Settings | No Current Purpose (sound button doesn't work) |![Settings](DanteSS/settings.png) |
 
 ---
 
@@ -267,10 +247,8 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 ### 7.2 Level / Environment Screenshots
 | Level / Area | Description | Screenshot |
 |---|---|---|
-| Limbo (Circle 1) | Begins with green grass area with books and ruined pillars, enters castle with saw and spike traps | |
+| Limbo (Circle 1) | Begins with green grass area with books and ruined pillars, enters castle with saw and spike traps |![Limbo SS](DanteSS/limboSs.png) |
 
-
-> Add screenshot images using: `![Level Name](./docs/screenshots/level_name.png)`
 
 ### 7.3 Scene Management
 | Feature | Description |
@@ -297,7 +275,7 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 | Feature | Script | Description |
 |---|---|---|
 |Death |Health.cs|If current health is higher than 0 the player is hurt, otherwise it triggers the death animation, stops player movement and respawns the player after 6 seconds|
-|Saw Movement | EnemyObstacle.cs (x) / EnemyObstacleVertical.cs (y) |If (x or y) position is larger than (left or top) edge begin moving other way. If (x or y) is smaller than (right or bottom) edge begin moving back other way.|
+|Saw Movement | EnemyObstacle.cs (x) / EnemyObstacleVertical.cs (y) |If `(x or y)` position is larger than `(left or top)` edge begin moving other way. If (x or y) is smaller than `(right or bottom)` edge begin moving back other way.|
 | Healing| HealthHealing.cs | If an object with the tag 'Player' collides with the healing object, the script goes to the Health.cs script and adds value to the player's health, it then plays the heal sound effect and causes the healing object to dissapear |
 
 ---
@@ -369,7 +347,7 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 
 ---
 
-## 12. Branch Development Summary [Not Applicable in this Project (forgot to use branches)]
+## 12. Branch Development Summary
 
 > One section per feature branch. Add or remove sections to match your repository. Branches should be named for the feature they implement e.g. `feature/player-movement`. Link each branch name directly to the branch in your GitHub repository.
 
@@ -379,14 +357,38 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 
 | Field | Detail |
 |---|---|
-| **Branch Name** | `main` |
+| **Branch Name** | [`main`](https://github.com/TempeHS/2026CT_GameDesign_DantesJourney_Matthew.C) |
 | **Purpose** | Stable, releasable version of the game |
-| **Merged From** | |
-| **Final Commit** | |
+| **Merged From** | [`main`](https://github.com/TempeHS/2026CT_GameDesign_DantesJourney_Matthew.C) |
+| **Final Commit** | 21/9/2026 |
+
+#### What Was Built
+---
+Everything was built in the main branch, I forgot to use any branches.
+Features built include saws, health, damage, moving objects
+
+#### Key Commits
+| Commit Message | What Changed |
+|---|---|
+|UPD: Respawn, vertical moving saws, title parallax, README update |Added features of respawning, added script to make saws move vertically instead of horizontally, added parallax effect to limbo title |
+|WIP: Sawblade + Health and Damage System | Added damage system and health system |
+|WIP: Audio Implementation | Added audio manager, sound effects and music |
+---
+
+#### Problems Encountered & Resolved
+| Problem | Resolution |
+|---|---|
+|Spikes did not damage player|Changed colliders and used isTrigger |
+|Player was able to spam jump to climb on walls | Fixed grounded check |
+
+#### Screenshot / Evidence
+| ||
+|---|---|
+|![The Climb](DanteSS/theCookieJar.png)|![SpikedUp](DanteSS/spikedmg.png)|
 
 ---
 
-### Branch 2 — `feature/`
+### Branch 2 — `feature/` (forgot to use branches)
 
 | Field | Detail |
 |---|---|
