@@ -6,7 +6,7 @@
 | **Course/Class:**|**Computer Technology Yr10**|
 | **Repository:**|**https://github.com/TempeHS/2026CT_GameDesign_DantesJourney_Matthew.C**|
 | **Unity Version:** |**6000.0.58f1**|
-| **Document Version:** | **0.4269** |
+| **Document Version:** | **1.0** |
 | **Date:**|**27/8/2026** |
 
 ---
@@ -71,9 +71,9 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 | Field | Detail |
 |---|---|
 | **Video Title** | Dante's Journey: Main Menu + Circle 1 |
-| **Link / Embed** | |
-| **Duration** | |
-| **Description** |Showcases main features of Dante's Journey, including menus obstacles and visual features |
+| **Link / Embed** |[Dante's Journey: Main Menu + Circle 1 Showcase](DanteSS/Dante's_Journey_Showcase.mp4) |
+| **Duration** | 1:59 |
+| **Description** |Showcases main features of Dante's Journey, including menus, obstacles and visual features |
 
 ### 2.2 Feature Highlight Clips
 
@@ -111,7 +111,7 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 | Feature | Description |
 |---|---|
 | Player | Player interaction with objects, player ground check for jump |
-| Saws and Spikes | Moves left,right,up and down (Saw), uses circle collider with isTrigger on to deal damage on collide with player (Both)|
+| Saws and Spikes | Moves left, right, up and down (Saw), uses circle collider with isTrigger on to deal damage on collide with player (Both)|
 | Heart (In Stage) | Uses box collider with isTrigger on to heal on collide with player |
 
 ### 3.4 Game Loop 
@@ -120,7 +120,7 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 | Start / Initialisation | Main Menu Play Button |
 | Core Loop | Platform through level |
 | Win / End State | Beat Level |
-| Restart | Restart Button in pause menu |
+| Restart | Death or Restart in Pause Menu |
 
 ### 3.5 Scoring & Progression [Not Applicable in this Project]
 | Element | Description |
@@ -228,6 +228,7 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 | Element | Purpose | Screenshot |
 |---|---|---|
 |Health Bar |Show player's current health |![Health Bar](DanteSS/healthBar.png) |
+---
 
 ### 6.2 Menus
 | Menu | Purpose | Screenshot |
@@ -285,8 +286,6 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 
 ## 9. Development Techniques & Tutorials Acknowledged
 
-> List every tutorial, course, video, or article that informed or guided your implementation. Include what you used it for and what you changed or adapted.
-
 | # | Title | Author / Creator | URL / Source | What You Used It For | What You Changed / Adapted |
 |---|---|---|---|---|---|
 | 1 | 2D Player Movement In Unity | bendux | https://www.youtube.com/watch?v=K1xZ-rycYY8|Player Movement, jump | MINIMAL CHANGE |
@@ -299,8 +298,6 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 ---
 
 ## 10. Third-Party Content Acknowledgements [Not Applicable in this Project]
-
-> All third-party assets (art, audio, fonts, scripts, packages) must be listed here with their licence. Using an asset without acknowledgement may constitute academic misconduct.
 
 ### 10.1 Visual Assets
 | Asset Name | Type | Creator / Source | Licence | URL | Used For |
@@ -346,15 +343,12 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 | 2 |Walk SFX played for too long |Removed it from the game |
 | 3 |Player continued moving after death |Implemented rigidbody lines to stop velocity and used GetComponent to disable PlayerMovement by input |
 | 4 |Player did not respawn after death |Used WaitForSeconds and IEnumerator to delay respawn to allow for death animation to play|
-| 5 |Colliders did not work for spikes|Accidently used regular colliders rather than 2D Colliders, instead used circle colliders that the saws used |
+| 5 |Colliders did not work for spikes|Accidently used 3D colliders rather than 2D Colliders, instead used circle colliders that the saws used |
 
 ---
 
 ## 12. Branch Development Summary
 
-> One section per feature branch. Add or remove sections to match your repository. Branches should be named for the feature they implement e.g. `feature/player-movement`. Link each branch name directly to the branch in your GitHub repository.
-
----
 
 ### Branch 1 — `main`
 
@@ -391,174 +385,12 @@ Features built include saws, health, damage, moving objects
 
 ---
 
-### Branch 2 — `feature/` (forgot to use branches)
-
-| Field | Detail |
-|---|---|
-| **Branch Name** | |
-| **Feature Developed** | |
-| **Merged Into** | |
-| **Date Started** | |
-| **Date Merged** | |
-
-#### What Was Built
-<!-- Describe what this branch added or changed -->
-
-#### Key Commits
-| Commit Message | What Changed |
-|---|---|
-| | |
-| | |
-| | |
-
-#### Problems Encountered & Resolved
-| Problem | Resolution |
-|---|---|
-| | |
-| | |
-
-#### Screenshot / Evidence
-<!-- Add a screenshot of the feature working -->
-> `![Feature Name](./docs/screenshots/branch_feature_name.png)`
-
----
-
-### Branch 3 — `feature/`
-
-| Field | Detail |
-|---|---|
-| **Branch Name** | |
-| **Feature Developed** | |
-| **Merged Into** | |
-| **Date Started** | |
-| **Date Merged** | |
-
-#### What Was Built
-
-
-#### Key Commits
-| Commit Message | What Changed |
-|---|---|
-| | |
-| | |
-| | |
-
-#### Problems Encountered & Resolved
-| Problem | Resolution |
-|---|---|
-| | |
-| | |
-
-#### Screenshot / Evidence
-> `![Feature Name](./docs/screenshots/branch_feature_name.png)`
-
----
-
-### Branch 4 — `feature/`
-
-| Field | Detail |
-|---|---|
-| **Branch Name** | |
-| **Feature Developed** | |
-| **Merged Into** | |
-| **Date Started** | |
-| **Date Merged** | |
-
-#### What Was Built
-
-
-#### Key Commits
-| Commit Message | What Changed |
-|---|---|
-| | |
-| | |
-| | |
-
-#### Problems Encountered & Resolved
-| Problem | Resolution |
-|---|---|
-| | |
-| | |
-
-#### Screenshot / Evidence
-> `![Feature Name](./docs/screenshots/branch_feature_name.png)`
-
----
-
-### Branch 5 — `feature/`
-
-| Field | Detail |
-|---|---|
-| **Branch Name** | |
-| **Feature Developed** | |
-| **Merged Into** | |
-| **Date Started** | |
-| **Date Merged** | |
-
-#### What Was Built
-
-
-#### Key Commits
-| Commit Message | What Changed |
-|---|---|
-| | |
-| | |
-| | |
-
-#### Problems Encountered & Resolved
-| Problem | Resolution |
-|---|---|
-| | |
-| | |
-
-#### Screenshot / Evidence
-> `![Feature Name](./docs/screenshots/branch_feature_name.png)`
-
----
-
-### Branch 6 — `feature/`
-
-| Field | Detail |
-|---|---|
-| **Branch Name** | |
-| **Feature Developed** | |
-| **Merged Into** | |
-| **Date Started** | |
-| **Date Merged** | |
-
-#### What Was Built
-
-
-#### Key Commits
-| Commit Message | What Changed |
-|---|---|
-| | |
-| | |
-| | |
-
-#### Problems Encountered & Resolved
-| Problem | Resolution |
-|---|---|
-| | |
-| | |
-
-#### Screenshot / Evidence
-> `![Feature Name](./docs/screenshots/branch_feature_name.png)`
-
----
-
 ### Branch Development Overview
-
-> Complete this summary table once all branches are finished.
 
 | Branch Name | Feature | Date Started | Date Merged | Status |
 |---|---|---|---|---|
-| `main` | Stable release | | | |
-| `feature/` | | | | |
-| `feature/` | | | | |
-| `feature/` | | | | |
-| `feature/` | | | | |
-| `feature/` | | | | |
+| [`main`](https://github.com/TempeHS/2026CT_GameDesign_DantesJourney_Matthew.C) | Stable release |18/5/2026 |18/5/2026 | Working Features |
+
 
 ---
 
