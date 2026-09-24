@@ -70,18 +70,21 @@ Dante's Journey is a 2D Platformer about travelling through the 9 circles of hel
 
 | Field | Detail |
 |---|---|
-| **Video Title** | |
+| **Video Title** | Dante's Journey: Main Menu + Circle 1 |
 | **Link / Embed** | |
 | **Duration** | |
-| **Description** | |
+| **Description** |Showcases main features of Dante's Journey, including menus obstacles and visual features |
 
 ### 2.2 Feature Highlight Clips
 
 | Clip | Description | Link |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+|Healing Showcase |Showcasing damage and healing |[Healing](DanteSS/HealingShowcase.mp4)  |
+|Moving Saws |Showcases vertical and horizontal moving saws |[Saws](DanteSS/UDLRMovingSaws.mp4) |
+|Moving Spikes |Showcases moving spikes |[Spike](DanteSS/UDMovingSpike.mp4)  |
+|Respawn |Showcases death animation and respawn |[Respawn](DanteSS/RespawnShowcase.mp4) |
+|Pause Menu |Showcases pause button, buttons in the menu, music pausing. |[Respawn](DanteSS/PauseMenuShowcase.mp4) |
+
 
 ---
 
